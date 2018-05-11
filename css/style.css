@@ -336,7 +336,7 @@ h1, h2, h3, h4, h5, h6, figure {
   float: left;
   width: 100%;
 }
-.fh5co-cover .overlay {
+.fh5co-cover .dark-overlay {
   z-index: 0;
   position: absolute;
   bottom: 0;
@@ -344,6 +344,15 @@ h1, h2, h3, h4, h5, h6, figure {
   left: 0;
   right: 0;
   background: rgba(76, 74, 138, 0.9);
+}
+.fh5co-cover .overlay {
+  z-index: 0;
+  position: absolute;
+  bottom: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+  background: rgba(76, 74, 138, 0.5);
 }
 .fh5co-cover > .fh5co-container {
   position: relative;
