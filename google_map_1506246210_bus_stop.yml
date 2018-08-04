@@ -1,0 +1,1327 @@
+---
+Bus Stop:
+- geometry:
+    location:
+      lat: 14.5013931
+      lng: 74.36595270000001
+    viewport:
+      northeast:
+        lat: 14.50272543029151
+        lng: 74.3673116302915
+      southwest:
+        lat: 14.5000274697085
+        lng: 74.36461366970849
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png
+  id: 8f380ac0bc74b172deb460a2d54d2bec5c05e469
+  name: nirvana beach bus stop
+  place_id: ChIJxS5tFYKCvjsRxMD2ylW3QSI
+  rating: 2.7
+  reference: CmRRAAAAWv_AyVMVntKAwwEAs_wAj7W5eXt2xuSD-4RuA_jgwIX52HM_SOjhYz_mdUh4Ix2VDoCrYc1q2Vh38X4jy6xrFYRwnr6jgY3YmAGdZEadhmn3ufHRd3guJ-1Dj73G-EXlEhCeVUDxjI4wSSTQaVrSGN7kGhRkb-C9-eF7_qexoyKBV0nnonq9DQ
+  scope: GOOGLE
+  types:
+  - bus_station
+  - transit_station
+  - point_of_interest
+  - establishment
+  vicinity: Nirvana Trail, Kagal
+- geometry:
+    location:
+      lat: 14.4928782
+      lng: 74.36980249999999
+    viewport:
+      northeast:
+        lat: 14.4942271802915
+        lng: 74.37115148029149
+      southwest:
+        lat: 14.4915292197085
+        lng: 74.36845351970848
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png
+  id: 46a52eb97dc639fe782f80c9ff06e18e9731d0fd
+  name: kagal kannad shala bus stop
+  photos:
+  - height: 1010
+    html_attributions:
+    - <a href="https://maps.google.com/maps/contrib/103681915064078591543/photos">A
+      Rock</a>
+    photo_reference: CmRaAAAAUjwV1myR-Hzhsct8oZOUVfEaxDZONejARoYa39s9DgqdnUSg1FgNDTAU_15nkN84h1snuhMwoBSNvZ0P1zxmwu8Q7lgKxDVRNovXBWddfHO4PbCaj-E_vwEmkkDv8HDnEhCEhdlTHi455LaAIDZywyWjGhT5LnUSx5dmd97rZeNhTL5PnFvQIg
+    width: 1224
+  place_id: ChIJoV7kZS8ovDsRMhI77ARGPvw
+  rating: 3.5
+  reference: CmRSAAAAoqxVb4wMQ4L599sErK7gDAdnwdYvRC2j8useCT05rUWGWcDY1qWUE28CdNXFHsBsK2eYpyKCb4dHS3Xq7J613j_T7Fssg3Gltr1sZkr01gBfmECXftkivr6qs97g24_REhAuYajx_Slz4yY-dbdYGucgGhSnEquO-ckT14A01ONeoQu0pokSRw
+  scope: GOOGLE
+  types:
+  - bus_station
+  - transit_station
+  - point_of_interest
+  - establishment
+  vicinity: Kagal
+- geometry:
+    location:
+      lat: 14.5979741
+      lng: 74.3207288
+    viewport:
+      northeast:
+        lat: 14.5993230802915
+        lng: 74.3220777802915
+      southwest:
+        lat: 14.5966251197085
+        lng: 74.31937981970849
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png
+  id: 50c972b35f8da9578965d6de0ee09a63deeb25d8
+  name: agragone bus stop
+  photos:
+  - height: 2340
+    html_attributions:
+    - <a href="https://maps.google.com/maps/contrib/100692577498245211640/photos">viraj
+      nayak</a>
+    photo_reference: CmRaAAAAM8lV1o_r_yy5N8oxsUop7sMlHSntzo2KX-b3YJA_KTYJVzqbADvMvb-8j3F_AAqVwxiCxdj_kwKfVwv8OS-BDslNOM1adFcfpdzhQ_sMjP4ygnTjXXkaz27D_jUyiwITEhCStfICZVYGnIZe8bfBbYc1GhSZYVvR2WjYenJXUr_2jNrbi4ceRA
+    width: 4160
+  place_id: ChIJ-8i8JwWEvjsR7bxVu-FOl7M
+  rating: 3.8
+  reference: CmRSAAAAWDfwYtZVml8--nS_R8pROjAztVWMGDytxpyLDF8bAb8HVPiLkqS2KYnYlrNa3AdbbPuOiovDl8OqVCxZ2JJRKaSZTClDEVWk6IQQTcbjlOBWk0CgCjivunF8vvDycqUEEhCAcAayPwDoCQJTj5tLE_XcGhQHhEH8-q2W9ZrXS38ag_AChrzoFw
+  scope: GOOGLE
+  types:
+  - bus_station
+  - transit_station
+  - point_of_interest
+  - establishment
+  vicinity: Agragon
+- geometry:
+    location:
+      lat: 14.6023398
+      lng: 74.2917636
+    viewport:
+      northeast:
+        lat: 14.6036887802915
+        lng: 74.2931125802915
+      southwest:
+        lat: 14.6009908197085
+        lng: 74.29041461970849
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png
+  id: 4af9b0dbae1536227ed36a17a749611ad3d7440c
+  name: kelagina manjaguni bus stop
+  photos:
+  - height: 3264
+    html_attributions:
+    - <a href="https://maps.google.com/maps/contrib/101611062675193247372/photos">Aravind
+      Tandel</a>
+    photo_reference: CmRaAAAA3eDGo2KwS-_7Swz-_ySQjpRJw7GKao00yaT0eujebM1_cBDFBV1nWQ4CTkpwFPg1kZlxDbrEBoKBwW4OA-nnV_AhRK2yH6Cdl_WUy5MwPJU7l4pJBhj7_nHSV6ukp63uEhDY4reuj7kV5qFMGReC5GWzGhQYBZ44xwF3AGurff72qBQZftxBvg
+    width: 2448
+  place_id: ChIJt73tLLmGvjsRuyesdMPHNFg
+  reference: CmRRAAAAW4O8r54AZrqPlHsOI9D-yUtKxsa7y4oziqB9XshJ0eDh8OppLSYJ-RCFuwDue-JoYPLhM7rsymL_mojkwxjhWQmOFRz2j4erDRFVokMverSXSn-tjCUCw0cPDHN9_oZlEhBp4ua2AIuMILadACZocNHfGhQ3dg1Zcw-EvN7vbSuyQLIAKcpRLg
+  scope: GOOGLE
+  types:
+  - bus_station
+  - transit_station
+  - point_of_interest
+  - establishment
+  vicinity: Ankola
+- geometry:
+    location:
+      lat: 14.5458557
+      lng: 74.3193375
+    viewport:
+      northeast:
+        lat: 14.5472046802915
+        lng: 74.32068648029151
+      southwest:
+        lat: 14.5445067197085
+        lng: 74.3179885197085
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png
+  id: a8e868f190acbc290dba393caac1eb0171567260
+  name: gokarna bus main stand
+  photos:
+  - height: 2352
+    html_attributions:
+    - <a href="https://maps.google.com/maps/contrib/109314675727778096403/photos">Girish
+      Kumar</a>
+    photo_reference: CmRaAAAAxfYrmLt9VHkJpSRh37v3yHl-RlTraLoe3KeZBmZrLIuRdLQ8f3OuEftLMxiltPloaRFm26_gRwDRf-RNBaLB0HT0CEIHtNZHl6gwsYyhm1VsiIsHGKMbaljb_26KUJWGEhDn4iqVABFKpTJE1FknWhdqGhTJhnpMVfh8mPODggESC7I0vxDzjw
+    width: 4160
+  place_id: ChIJmasXvtODvjsRkdyU0jLx3vc
+  rating: 3.6
+  reference: CmRSAAAAL4FGMVjhmMvxYMDOjyDn6N78eKMo5A0aucp5C9VXQgkh7Rm9nxwbPLrvuEV3Ig1nocdkK1XfqtVQc4pVKc9D9T5LU02b-yPsuyloz0MnSyVidOQv36rbAhE-BTrU3t2gEhD-rShz6DS42vRvc8fyDYnRGhRM2ttbeZ1GqrnYrOX2BtfUlgm6Zg
+  scope: GOOGLE
+  types:
+  - bus_station
+  - transit_station
+  - point_of_interest
+  - establishment
+  vicinity: Banglegudda, Gokarna
+- geometry:
+    location:
+      lat: 14.558373
+      lng: 74.39028549999999
+    viewport:
+      northeast:
+        lat: 14.5597219802915
+        lng: 74.39163448029149
+      southwest:
+        lat: 14.55702401970849
+        lng: 74.38893651970848
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png
+  id: 18bcc9ae60dc635dd4736fec610d908b4522b332
+  name: ksrtc busstop hiregutti
+  place_id: ChIJmz9eLTuDvjsR5WaviXa4AkU
+  rating: 4
+  reference: CmRRAAAA0h3VVAkzvnyLBFANxZyW7wY6xKYfKaoKsOn6rl44oevfVeI-79NMI_kLs9ep0Xz7KQySwj9rqjrWfLyh1DypKYaDOWFPoduio1U24mBIoLuFjrRdVuNy5-PuovCbEfd1EhCOJ5iXWEyNXKOrIgSwYODOGhTMMQUj_YgX0hD9Mazka2CpAoTqPg
+  scope: GOOGLE
+  types:
+  - point_of_interest
+  - establishment
+  vicinity: Hiregutti
+- geometry:
+    location:
+      lat: 14.5462314
+      lng: 74.31916369999999
+    viewport:
+      northeast:
+        lat: 14.5475803802915
+        lng: 74.3205126802915
+      southwest:
+        lat: 14.5448824197085
+        lng: 74.31781471970848
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png
+  id: ff9fd7a357beb8ebef6c48a5ee4b1958bffeb9e4
+  name: ksrtc ticket booking centre
+  photos:
+  - height: 3120
+    html_attributions:
+    - <a href="https://maps.google.com/maps/contrib/115276499578839284535/photos">Abin
+      bejoy</a>
+    photo_reference: CmRaAAAAcGY5IzxH1-v-rZsGlpXQNjK5tWDQiLZoTSEbSsKDcWdncd6X6IoJtvo2ecNrxoyT_xINUXRRfZA-7NYvEAwy9BVKIjpde9pHmIMga1tB7qL0ossSBAA-JMoXl29appcmEhCFTdVKkg7hRRS2z1q6ShcdGhTPJ4JiRcxt0j97Rb5jPGeGLGiJ3A
+    width: 4160
+  place_id: ChIJIZcYvtODvjsRUTAyWa0aBnw
+  rating: 3.1
+  reference: CmRRAAAA2mTzBpEAnmuBnvLD4BgcZuQFVygrIX6GbfTSI_RNF01VLQK3MC9FAV0MKXzivH4Sg7PbJVeNsLo0oEZs-2xqiZbNKqNLCrqj4SHRLxvCaQoQ6gqegSBKv7tgE97Img9rEhA4-jV_FhkyD6_D3kZTYFJqGhT3a_F3OAvpcw1A8Shm6o2w4FpbSA
+  scope: GOOGLE
+  types:
+  - travel_agency
+  - point_of_interest
+  - establishment
+  vicinity: NWKRTC Bus Stand, Rathabedi, Gokarna
+- geometry:
+    location:
+      lat: 14.5146025
+      lng: 74.3800143
+    viewport:
+      northeast:
+        lat: 14.5159514802915
+        lng: 74.38136328029151
+      southwest:
+        lat: 14.5132535197085
+        lng: 74.3786653197085
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png
+  id: f4b381c15ed6719262f494a7cb2d36516babdfad
+  name: moslleasal bus rest stop terninal point
+  place_id: ChIJsbspsJeCvjsR0TYNazcl41c
+  rating: 1
+  reference: CmRRAAAAjcvQaLEwgPf310oSJMRKaIqJZTfR0JH_mzO8Ykt5xEstYQrRgQ3dclbT-Z1CMEHGy7UyJKn1m96OrKuKAXkyDDdbvTyNfZbB0JLd_euP8iD_VqHJgOZoulHUgvpQQjNlEhAZ4-5WrLf0ajBdVdJo8U8FGhRn9P5DtibGxdvnEi7-g3WIJp_wZQ
+  scope: GOOGLE
+  types:
+  - point_of_interest
+  - establishment
+  vicinity: Karnataka
+- geometry:
+    location:
+      lat: 14.5210994
+      lng: 74.3641832
+    viewport:
+      northeast:
+        lat: 14.5224483802915
+        lng: 74.36553218029151
+      southwest:
+        lat: 14.5197504197085
+        lng: 74.3628342197085
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png
+  id: 10544ff8a85e8a767706693869155a8c6148dc04
+  name: aghanashini tampo(mini bus) rest stop
+  photos:
+  - height: 3120
+    html_attributions:
+    - <a href="https://maps.google.com/maps/contrib/103681915064078591543/photos">A
+      Rock</a>
+    photo_reference: CmRaAAAADHeQRMeh8A8jq763VDpfJvzbGTa6wzuhntBsIfu6_BMqHODDokMHt4nyCJJyhXH5XnSufW_xmX8kB4v4R7obzl-rwIYi5Hwa2dqdvEj2e0_6ER8k_ZUqc6QZbXrEPYmPEhAe5eirYzjiP-e706I-giczGhSFb0NkbWLlwR7YcDtkSSY-Kbcyzw
+    width: 4160
+  place_id: ChIJ-UJEZ4uCvjsRhiHz4YMKZQU
+  reference: CmRRAAAALRt2VLY4RLUZY0LQf4bvpZjYYzaVzRjKBM6Ns35xOMGeMFjfcNzEvuN6JkhFF1Cih-B--z2bWtA2TYCdN8T9m5HND4sG1mTqPZq4cz8-1rGmLyEL42djAdQ_0RQEI6YlEhD0tiEN_nmlZ8PqKd-Xf2ioGhTwPG5nY_rWAvL3vPt3y_w-WDPTDQ
+  scope: GOOGLE
+  types:
+  - point_of_interest
+  - establishment
+  vicinity: Aghnashini Road, Kagal
+- geometry:
+    location:
+      lat: 14.5436436
+      lng: 74.3182082
+    viewport:
+      northeast:
+        lat: 14.5449925802915
+        lng: 74.31955718029151
+      southwest:
+        lat: 14.5422946197085
+        lng: 74.3168592197085
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png
+  id: 96cf2371a20f3575dcbe959ba6f870eddba971a0
+  name: vrl travels
+  opening_hours:
+    open_now: true
+    weekday_text: []
+  place_id: ChIJz7eNZNODvjsRz70_P9L0yYg
+  rating: 5
+  reference: CmRSAAAAQwA6uZ8EBDbHezU2oAc6Z3kGlSHP5frPMaUMwAq_TqV3KJt4liihdyCcEw0kABnrPKeu46C-07Pl2LJBoWzIFNQWc8SNXhZnAdgVnKKlq9PTUePXn3UkTqWs_RBSYXPhEhCYxsOFWzdsC6oz6LCLUKiZGhT4pctZK_9K6-JcA8d8iJF17nF38w
+  scope: GOOGLE
+  types:
+  - travel_agency
+  - point_of_interest
+  - establishment
+  vicinity: Prema Tours & Travels, Rathabeedi Temple Road, Gokarna
+- geometry:
+    location:
+      lat: 14.5834556
+      lng: 74.36772789999999
+    viewport:
+      northeast:
+        lat: 14.5850592802915
+        lng: 74.3688553302915
+      southwest:
+        lat: 14.5823613197085
+        lng: 74.36615736970849
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/train-71.png
+  id: 192a615b2236c17ed913c62a356aa93b097d5b97
+  name: gokarna road halt
+  photos:
+  - height: 3480
+    html_attributions:
+    - <a href="https://maps.google.com/maps/contrib/118208363370182034417/photos">Maheshwaran
+      S</a>
+    photo_reference: CmRaAAAApoMni6SsPIUrbDmqKNqqpqo_LgC3CdvEbtoDxa-dIfbnaaqljsghUk0DiAYvG-1AG75bx92AnoSFE3cEJtx0xSfU-yNQ-rOw24hsEqRDywtePqAxtinVCjz4NIvnYkz8EhAIfRDLJv6I3ZbSI8jwMMdyGhTDZMiNCPHYw8Ra1UQ9e2Mb2hR2EA
+    width: 4640
+  place_id: ChIJH9_hdHuDvjsRLv9epbjYxqE
+  rating: 4.1
+  reference: CmRSAAAAZKRNZ1e8DXCM7QcPMOGaGgscZIg1xzmpglpp6ArZ3ljbbrxjlKIjP7R6OFz7q1to67CG3ZcWzU4x9OcbfVw5eCI6aR_PVaScAfP4y569doImJrnlP2He9oRXYlPcFXPfEhBOvq0gf-fKmeqtc3blenRiGhSCaiCqrwgmBRab64AD38bGjKZVQw
+  scope: GOOGLE
+  types:
+  - train_station
+  - transit_station
+  - point_of_interest
+  - establishment
+  vicinity: Devigadde
+- geometry:
+    location:
+      lat: 14.6011095
+      lng: 74.3058157
+    viewport:
+      northeast:
+        lat: 14.6025319302915
+        lng: 74.3071458802915
+      southwest:
+        lat: 14.59983396970849
+        lng: 74.3044479197085
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png
+  id: 0c39ea910a49d37cbfd604e51801b813686585d1
+  name: manjuguni jetty
+  photos:
+  - height: 3456
+    html_attributions:
+    - <a href="https://maps.google.com/maps/contrib/118437197575673979986/photos">ankit
+      lonkar</a>
+    photo_reference: CmRaAAAAfwqQ3B27hKCsG5p4EVasbPemRdg8qob-1Qs-fD_AHGJ8uUY-VeVZMeMhY7iF6L6ckQvemnrkLq8v4emFqIl407nD9QSdQeT18YrMVyep3cI_DNNDMO6jgfSuq-5UU8GlEhBC2-ZoTG86vmCNyvdgX2TJGhQ-BiVrRj068DOk6JlXG9Si7CWJYw
+    width: 4608
+  place_id: ChIJ9-OvKaSGvjsRPYfa6_Ye5YA
+  rating: 4
+  reference: CmRSAAAAeei5I_jqNaAJxrM3CBc40re-mrvRoTqRVaQ2tBuH4c3BZhijIY6XT9AcA8Svv24voluDK1E62WkwvBVY5NcrdMrJXEgZqxBdatATq4Xh_ONLnAT6IF1Z76hIMk5UNpqTEhBAHCvy2wUcAlGG7x8BTP8FGhQNvAdkLl7LS1yJpY3C5gZeZvmdog
+  scope: GOOGLE
+  types:
+  - transit_station
+  - point_of_interest
+  - establishment
+  vicinity: Manjaguni Road, Manjaguni
+- geometry:
+    location:
+      lat: 14.543958
+      lng: 74.320359
+    viewport:
+      northeast:
+        lat: 14.5453028802915
+        lng: 74.3216775802915
+      southwest:
+        lat: 14.5426049197085
+        lng: 74.3189796197085
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png
+  id: 4162030edb8866296ffd5e02925fea39b08113d6
+  name: gokarna taxi service omkar tours travels
+  opening_hours:
+    open_now: true
+    weekday_text: []
+  photos:
+  - height: 3120
+    html_attributions:
+    - <a href="https://maps.google.com/maps/contrib/110226999954397856534/photos">Naresh
+      Nayak</a>
+    photo_reference: CmRaAAAAkW7vaq1zpx6U21YbY3aJ46Q3hDduYKWTC_MfOtKzrpivv5Sk-HTJrMqr0i2XQhDXuzR9F9t60pch04XMGUbSWTB8UTZbeKsHCdXF2qCAQzryrLBRSNKlLQGrfGQpMUnAEhCPNH1CjCwLn8uYUvyFbLcjGhQ7udHgX2Tftb61zzHFGzW7F4LZOQ
+    width: 4160
+  place_id: ChIJ-yuZHtODvjsR7bw0LmXHlWA
+  rating: 4.9
+  reference: CmRRAAAA2zFt99krrhfCnDdReAuZ4T45Wrbo91jZsXCXQpM5orptCESmMqNsPZdeYooVNuH2fEKd-nmpgrxanAN0BiCUVwF5zgSFV_IaiK5AbU7nWw6th7qgsiLnRFpdPATKj1XhEhAmufohQzWn5x7M4L320TwWGhQvzYflPUIhh_m1SBbLJseZ8265Og
+  scope: GOOGLE
+  types:
+  - travel_agency
+  - point_of_interest
+  - establishment
+  vicinity: Gokarna main, Kudle Road, Car Street, Dandebagh, Gokarna
+- geometry:
+    location:
+      lat: 14.4008811
+      lng: 74.4802907
+    viewport:
+      northeast:
+        lat: 14.4022300802915
+        lng: 74.48163968029151
+      southwest:
+        lat: 14.3995321197085
+        lng: 74.47894171970849
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png
+  id: db87156b90025d7fc9bec7e0bd0068ffb2d96bb9
+  name: chandavar bus stop
+  photos:
+  - height: 3096
+    html_attributions:
+    - <a href="https://maps.google.com/maps/contrib/113246790958701076111/photos">Mohit
+      Deshbhandari</a>
+    photo_reference: CmRaAAAA1uIoRE77w95eNKeCQ4oFxS0CIsUm1Ho-eaftlMKc26dGjQ4UFQO3iCNYXOsu3gTMj9jffxBJQA7ebb84eSxgCjPyhOZHhKrUwiJ62z460DgI4YbByeRcc0iFNT_33IKJEhCpVPzl0QkDaPkYwmI23XHZGhQjO2cAqHw8-tqMEGHM5A4r4XJ-tw
+    width: 4128
+  place_id: ChIJicFemBYkvDsRWtqLUVcAckg
+  rating: 4.9
+  reference: CmRRAAAAQxpuntO85wD77bMo8w9qHs0BKQNT65EAn10JT0vkhuzx9ol0RvMnnj7KzfJ2r3tciDWpjkS1ABB9Ufio9sqCdX2GJWw95qczWYW9988p8ExjTlr7D7vIM-WvacVkox_dEhAUYcXO4ry4mnqQyDaXNDLrGhSorENIN4GdlWz0RQsHYcv6Rf3S4w
+  scope: GOOGLE
+  types:
+  - bus_station
+  - transit_station
+  - point_of_interest
+  - establishment
+  vicinity: ''
+- geometry:
+    location:
+      lat: 14.4827137
+      lng: 74.49197730000002
+    viewport:
+      northeast:
+        lat: 14.4840879302915
+        lng: 74.4933223802915
+      southwest:
+        lat: 14.48138996970849
+        lng: 74.49062441970848
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png
+  id: 05daf8d771e3392b55d14f1f38ce2f2e1647cc60
+  name: katgal bus stop
+  place_id: ChIJPz5w8zYnvDsRrjkCia9aBLI
+  rating: 3.5
+  reference: CmRSAAAA_yz-AYiNAvlHyod8Tg6TdETsjbzCib1YK3yOAN-vNMJqSgBOUuVfeRieNQ4iLnPxpLI1BwATQIcJs-asZ-VvfE8Xznfe_02O1pe1e0vRgW954BKgN1PwMxTssIGfgUK1EhAsDveVizq1MjElRMCg7zwHGhTBwC4r8rmPoroHNAbxY1mLHX0fhA
+  scope: GOOGLE
+  types:
+  - bus_station
+  - transit_station
+  - point_of_interest
+  - establishment
+  vicinity: Sirsi - Kumta Road, Santur
+- geometry:
+    location:
+      lat: 14.4107582
+      lng: 74.44107149999999
+    viewport:
+      northeast:
+        lat: 14.4121094302915
+        lng: 74.4424202302915
+      southwest:
+        lat: 14.4094114697085
+        lng: 74.43972226970848
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png
+  id: d540b58ce69a88531e4caab64100cb0b16f6b537
+  name: valagalli bus stop
+  place_id: ChIJ8WcBYdclvDsR4JsCHXTV2uU
+  reference: CmRSAAAAgjiYzt9rbjdXSanOVFlgk01Q4jaEejoA29LgRBGJ-8cCm8sgVOXXN4pL2KT04aq_SY_QIjlMdhc_E9APGAp92F0uzSoJn728l4-QYKosn4FQlC-Jb1ImnMKvhfURlWJoEhCM3eMJeFX0QjfixyAjOujoGhTxiGUl-yKaxEXG-YTlS6oNfC-hNA
+  scope: GOOGLE
+  types:
+  - bus_station
+  - transit_station
+  - point_of_interest
+  - establishment
+  vicinity: Kumta - Siddapur Road, Valgalli
+- geometry:
+    location:
+      lat: 14.500087
+      lng: 74.46498869999999
+    viewport:
+      northeast:
+        lat: 14.5013739302915
+        lng: 74.46641658029151
+      southwest:
+        lat: 14.4986759697085
+        lng: 74.46371861970849
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png
+  id: 19062d3d13500914600a5f0db5a631379a64447e
+  name: yalavalli bus stop
+  place_id: ChIJC2yvsGQnvDsRfviuuy06POg
+  rating: 4.5
+  reference: CmRSAAAAnJ2fnb19j2inpC_mb-vUcEcf3Vn4xoca8Nc5-e7OzhcH9GChAeTb60yO2nzQUKHLy4B-3YE1o25fPbfYqkb5j3DgD_RvCWM1HyDwS7a8-exh0DEufNPyp1sjepETCCVGEhCW8RKDV1062mDhxyg8qnYKGhS3MZ87JpZKuWiyLY6pdYZP88Md6w
+  scope: GOOGLE
+  types:
+  - bus_station
+  - transit_station
+  - point_of_interest
+  - establishment
+  vicinity: Baragadde -Yalavalli Road, Yelavalli
+- geometry:
+    location:
+      lat: 14.661363
+      lng: 74.4712906
+    viewport:
+      northeast:
+        lat: 14.6627119802915
+        lng: 74.47263958029151
+      southwest:
+        lat: 14.6600140197085
+        lng: 74.46994161970851
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png
+  id: 74e35353a465b0ffcb9e4f1e23da466a8d8f6f56
+  name: hillur bus stop
+  place_id: ChIJOVqNQUGavjsRjoFZ75uNyB8
+  reference: CmRRAAAA9ZyRGa84O_vypt2Q2DAIlTXBZLzhXeJShB7goFgypFgqjIElJhlT2otjqDa1vsA-SreyKVjQ6at0UZmQYkgd1FzMEWU61cdsgU1F5S4FV9kwU1xCf8gX3E3FXLts3PxtEhCfxCc2xjd9NVyU6s01iy3zGhTAiP8RqUbDE8AaI3ath1TeEvo0nA
+  scope: GOOGLE
+  types:
+  - bus_station
+  - transit_station
+  - point_of_interest
+  - establishment
+  vicinity: Hillur
+- geometry:
+    location:
+      lat: 14.4810259
+      lng: 74.45724249999999
+    viewport:
+      northeast:
+        lat: 14.4823695802915
+        lng: 74.45861143029151
+      southwest:
+        lat: 14.4796716197085
+        lng: 74.45591346970849
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png
+  id: d34bd910ee4dfaa23f05e5696bb278e21a066f0c
+  name: baragadde bus stop
+  place_id: ChIJ09o4dAsnvDsRwP1pSRijCuc
+  reference: CmRSAAAAtsBDgH1P07-EskL5nFbhzxxoWj8QKxHSk6zga2R-uWPvuKWdvS-WuD0eCI3JKrJxs7ZP7ICQhdYoSZmwhQ1cJ147LrSHVSqta_9kcZWenK5qGbsaKVIvY5Zbttd4SuMnEhDib90MT25DfN_6fRMvait3GhR0qrsVLk2ETLD1WsgxVSc1R5EMaw
+  scope: GOOGLE
+  types:
+  - bus_station
+  - transit_station
+  - point_of_interest
+  - establishment
+  vicinity: Baragadde -Yalavalli Road, Baragadde
+- geometry:
+    location:
+      lat: 14.4887232
+      lng: 74.4547963
+    viewport:
+      northeast:
+        lat: 14.49007298029151
+        lng: 74.4561175802915
+      southwest:
+        lat: 14.4873750197085
+        lng: 74.4534196197085
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png
+  id: 613c584ccc4b8c03d382670d9e505a40d259ded1
+  name: nilkod bus stop
+  place_id: ChIJo1mu0HUnvDsREBSNtb-f1tg
+  reference: CmRSAAAABt9xWQsn7YP8g7iDBSnZ7TOspzBmJP9PCOhuAJFrBtmqEzWBAajF1LktJYgwjIoejgp2TEwCd2Ob9CIprOKaj-684fHUTAae_qD6qIJLJnU58BFg4OD4zQwO_LqWi2JZEhBHPJySwajTvynZJ3OR0mCiGhQeJCd3GJfqZfClii25FfDGsmKk7g
+  scope: GOOGLE
+  types:
+  - bus_station
+  - transit_station
+  - point_of_interest
+  - establishment
+  vicinity: Yalavalli - Nilkod Road, Yelavalli
+- geometry:
+    location:
+      lat: 14.476933
+      lng: 74.46583629999999
+    viewport:
+      northeast:
+        lat: 14.4782997302915
+        lng: 74.46717208029152
+      southwest:
+        lat: 14.4756017697085
+        lng: 74.4644741197085
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png
+  id: 3527af1d42b4a2336ad6776f5a58b36f592db8be
+  name: antravalli bus stop
+  place_id: ChIJ0a10vxEnvDsRbS9hUVBRD5Q
+  reference: CmRSAAAAmzBrjjlsyZE4Wp-5il2pOVZb16tAFxdtQslFvB5o4CJCJAn4Be28kU_TRSi2MoweNzRClpCqx4U8YWY69CnYxGGATp5jMpV0Ld4mrNbdvS2BCmsDwCglSikn62yEovVjEhCMXVzsIL1GX1Z5sExBoDMQGhQt_okOf_YRpX9LmWRuOvtk5pLZKg
+  scope: GOOGLE
+  types:
+  - bus_station
+  - transit_station
+  - point_of_interest
+  - establishment
+  vicinity: Sirsi - Kumta Road, Antravalli
+- geometry:
+    location:
+      lat: 14.4058613
+      lng: 74.4515777
+    viewport:
+      northeast:
+        lat: 14.4072129802915
+        lng: 74.45292848029152
+      southwest:
+        lat: 14.4045150197085
+        lng: 74.45023051970851
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png
+  id: b08e7aa0d31fde2276347b08c69758c78f79e39c
+  name: harodi cross bus stop
+  place_id: ChIJ89aRxtIlvDsRclY0xsndLaU
+  reference: CmRSAAAAAlRhcfBt4vFje9n7LNySoL8DaauATP6OuYv6k3-UbtHeWMljyBPy8rEP6oNrPNi0THQuhSN1LYWaULaQC0ElPX4AK9NX7zK2IT4REpNt-tjgp_g_COMHvbVEcG8c6BiEEhDjqY86KxOxRshLbyhqVOv5GhRnion53AufD037iE_d1ml1lN-jPw
+  scope: GOOGLE
+  types:
+  - bus_station
+  - transit_station
+  - point_of_interest
+  - establishment
+  vicinity: Harodi Cross, State Highway 48, Hegle
+- geometry:
+    location:
+      lat: 14.4412587
+      lng: 74.3975954
+    viewport:
+      northeast:
+        lat: 14.4425736302915
+        lng: 74.39891588029151
+      southwest:
+        lat: 14.4398756697085
+        lng: 74.39621791970849
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png
+  id: 6b4c95527c83b782ef9fa3b6274b3315d2cbe284
+  name: mosoor cross bus stop
+  place_id: ChIJ2XZ_yJsovDsRp-4SPqQhkkw
+  rating: 2.8
+  reference: CmRRAAAAw4Ffrm08VpfF87Ja3DdjsDUu5uokTqQQ5FNnjb1REkC4STigtz-qYnP_Gb8xnD5pf-4nECOJOuR3pTjcD1DG0Piki6epAFKgixDNyDHyH_REHsbzM5eEpL0tJJpatVElEhCpt6Hm6CSeJdGP6TQQ1NwgGhRJ4xbC4aLwIcUivnnvNUww0OlHrQ
+  scope: GOOGLE
+  types:
+  - bus_station
+  - transit_station
+  - point_of_interest
+  - establishment
+  vicinity: Old Post Office Road, Chitragi
+- geometry:
+    location:
+      lat: 14.4231728
+      lng: 74.4159847
+    viewport:
+      northeast:
+        lat: 14.4245042802915
+        lng: 74.4173658302915
+      southwest:
+        lat: 14.4218063197085
+        lng: 74.4146678697085
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png
+  id: 35eb1816a8e9c3c60741bff34432b13b0485e96d
+  name: gibb high school circle bus stop
+  place_id: ChIJF0i6QAUmvDsRjrfGZHZWsZ8
+  rating: 3.5
+  reference: CmRSAAAA4jR62pFqT713wfYoI3ujorYrXbDDAVS7B_qlCsIN_sHU3FywYToebvOSxfn6h1kV0rhTgisySYmxo0PDUn1PMA5IEluR1nFaYQBHZY4hLzHboXdJdDjVQqCKaPLo64IpEhDhGCS8pXV3BvbyBbwDRG7vGhTdPlQWRz2gkrezxQEfaTxrQJM_cw
+  scope: GOOGLE
+  types:
+  - bus_station
+  - transit_station
+  - point_of_interest
+  - establishment
+  vicinity: Edapally - Panvel Highway, Kumta
+- geometry:
+    location:
+      lat: 14.4799143
+      lng: 74.4377428
+    viewport:
+      northeast:
+        lat: 14.4812351302915
+        lng: 74.4391013802915
+      southwest:
+        lat: 14.4785371697085
+        lng: 74.4364034197085
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png
+  id: 95bba028aaf81ee3c3503020ea6437c69fdf7a0f
+  name: kaire bus stop
+  place_id: ChIJOTKeqb0nvDsRPcwALhIPBg8
+  reference: CmRRAAAA8D0pSaqxWMzoDPCIDuXJFGOjW1iD6E2OMPzhO1Tg3V5SKfqHDwBRm2B5WJyqoY-pSYb9tEKOPvvnqjvrR9dX-etCxaWzuDkmpEOrmKM2XK_Xg-8MOZVI9vL3B1Lj0gvkEhDuURrlifQx5m_bQdjwFgCXGhScNXGERKVd9eXqanE9yhjIDO4t8w
+  scope: GOOGLE
+  types:
+  - bus_station
+  - transit_station
+  - point_of_interest
+  - establishment
+  vicinity: Edapally - Panvel Highway
+- geometry:
+    location:
+      lat: 14.4219
+      lng: 74.4212392
+    viewport:
+      northeast:
+        lat: 14.4232389302915
+        lng: 74.42258068029152
+      southwest:
+        lat: 14.4205409697085
+        lng: 74.4198827197085
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png
+  id: 16875ebeea9e5d0693eab1264b597a16a28c2364
+  name: herwatta bus stop
+  place_id: ChIJDbOKWA4mvDsReS9yMMKFFQM
+  rating: 1.5
+  reference: CmRRAAAA9hHe25G_0Jrai0EukjgMTt2SvNTz-H8mVQ8HANdw6Pw0_KITfaTRWNxcZ_et6Mw2JA2GV0QudVx-sw8hi2P7DwQUPfHzj7_6-lRODufoypJy8xF4MeQv6xPhYBKslXwPEhCK2-9PL4F8y-IkmSCwBoqtGhTYB_3mfVDEg4mexrlhTIvHk2Gx4g
+  scope: GOOGLE
+  types:
+  - bus_station
+  - transit_station
+  - point_of_interest
+  - establishment
+  vicinity: State Highway 48, Herwatta, Kumta
+- geometry:
+    location:
+      lat: 14.4320665
+      lng: 74.4516897
+    viewport:
+      northeast:
+        lat: 14.4334134302915
+        lng: 74.45303943029151
+      southwest:
+        lat: 14.4307154697085
+        lng: 74.4503414697085
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png
+  id: bc4086d9f2b6d13b5a640f2dabf9d05c4b04fa5c
+  name: maneer bus stop
+  photos:
+  - height: 2560
+    html_attributions:
+    - <a href="https://maps.google.com/maps/contrib/111010305849083554319/photos">Abubakar
+      M</a>
+    photo_reference: CmRaAAAAQ3ddeIQRHEQd0V9EavwDROSgbdUCx3WdaJjIKzE2utjhPo8R9V59neF4WToN21LUDjdqLPqYYhrbYKYW-oxUu1lp7owz2BXs3THHKYrVMcIy4hRGJ5SFmIrkOv4BXx_8EhDBhTYgg7x6nwL73JjmqRVYGhT0EIPEb4tAonUq2GL4y9ohvn1TiQ
+    width: 1440
+  place_id: ChIJsQENG2ImvDsRzz8xZT8X7iw
+  reference: CmRRAAAAND_lJGJTQ8Wox8x4608bMHVvGcwSjGacMd-7EiXzqjM5NNYTBcEEnnwG6MRn-PIUTYZ6FLdxb5Q2UnKr9tQI69z0yYRtbOxOaFCea7N2uJrfh2KBuMqJAcE58pD-WK3IEhDTP5pPhbYK0zyL4bJJ94XkGhR6lfPKR2zgTZBwWkLq6unLZaAOwA
+  scope: GOOGLE
+  types:
+  - bus_station
+  - transit_station
+  - point_of_interest
+  - establishment
+  vicinity: Muroor Road, Manaki
+- geometry:
+    location:
+      lat: 14.4362783
+      lng: 74.49694889999999
+    viewport:
+      northeast:
+        lat: 14.4376260802915
+        lng: 74.49833423029149
+      southwest:
+        lat: 14.4349281197085
+        lng: 74.49563626970848
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png
+  id: f0d09de4e743560b9a672a6f9382d9d5f295ee5e
+  name: hattikeri cross bus stop
+  place_id: ChIJ-VXdjrQmvDsRs2WpJUuH9Ok
+  rating: 3
+  reference: CmRSAAAAvumed6q-f8JmiBFvlqoNcmKDHliqxZeyqtp5OgwQJwi2KwhaBuVHhEAEWYSlQyYM4R56SBXW7EOfH-oA8l8WnClt7W5ykPwktmySj2mPHqTOtDCAEyVIPhwjbbD4uzTjEhDlTvvCRp6Vf174qSHmbkSiGhSk3nEaXi0YSzgkBxTCrdpr3UzlMQ
+  scope: GOOGLE
+  types:
+  - bus_station
+  - transit_station
+  - point_of_interest
+  - establishment
+  vicinity: Kumta - Siddapur Road, Hosad
+- geometry:
+    location:
+      lat: 14.4877312
+      lng: 74.4591576
+    viewport:
+      northeast:
+        lat: 14.4890641302915
+        lng: 74.46051548029149
+      southwest:
+        lat: 14.48636616970849
+        lng: 74.45781751970848
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png
+  id: ad9feb219e2a2ed38c37cad28632036fb35585f5
+  name: gullebail cross bus stop
+  place_id: ChIJR351knMnvDsR_rZngrNXePs
+  reference: CmRSAAAAqmAvqowELCTdwx7kTu1GpMB1nAnwZjOl0jctSmg0HhDRxdaia1z-NkS2xWDGLTw5bo_SLNPhy11A_G7UQ28SnpZ4bFupIvn4VSwvwFVMbsjpBVhQo4KAk3tckbASI1N5EhCDhxfZqieSwwSJNS9j6VyzGhSSTl4TjYnmZO-kmduR3LYZt0Oepw
+  scope: GOOGLE
+  types:
+  - bus_station
+  - transit_station
+  - point_of_interest
+  - establishment
+  vicinity: Baragadde -Yalavalli Road, Baragadde
+- geometry:
+    location:
+      lat: 14.2787314
+      lng: 74.4468495
+    viewport:
+      northeast:
+        lat: 14.2800803802915
+        lng: 74.44819848029151
+      southwest:
+        lat: 14.2773824197085
+        lng: 74.44550051970849
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png
+  id: 8d0b6548fd28fe3ac5fda77e37934cb8f723bb55
+  name: bhatkal circle bus stop
+  place_id: ChIJccgt_VU6vDsRZbyKZucGV30
+  rating: 4.4
+  reference: CmRRAAAAJwMKOMnyd1bBobQpSNUUMxgKZiKlNG4PoEnlI2wXCbv5qfa7Cj4XJSTvDgF1yhFFLVKyryrVPZ9u28Yz9fjKL2CECTqe9-sCdwT8bZ5Reg7rvTPoxikS-iMJ4Jza_D_SEhA8cARWFHa5z5khkYdrSRW9GhTv2Mx-bWRfc8Qulhb46xRFnSJCSQ
+  scope: GOOGLE
+  types:
+  - bus_station
+  - transit_station
+  - point_of_interest
+  - establishment
+  vicinity: Honnavar
+- geometry:
+    location:
+      lat: 14.2968955
+      lng: 74.4977117
+    viewport:
+      northeast:
+        lat: 14.2982434802915
+        lng: 74.4990604302915
+      southwest:
+        lat: 14.2955455197085
+        lng: 74.49636246970849
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png
+  id: 88a2dcae1a71ae05be4395ba2856e50f3ab0b5c2
+  name: kavalakki bus stop
+  place_id: ChIJJ9Xy9WI7vDsR0cM4UURwTF4
+  rating: 3.7
+  reference: CmRRAAAAx61ktH4jwEjl05btPT-jJ6NigcgaV1wNWYLiAujvysWsqy2eSfYgCubiPttWTDGG3jbRYJlsdAaDXKEvvmNKgvxgB4xZfDtyVPoqK3ZTuXkYZVAXVVm-SfMFQC0h0B_NEhAFE49tygPXstHx2owNnZN9GhQpQTfSGDOCbfKkpWi4YH1e_sTvTw
+  scope: GOOGLE
+  types:
+  - bus_station
+  - transit_station
+  - point_of_interest
+  - establishment
+  vicinity: Bengaluru - Honnavar Road, Kavalakki
+- geometry:
+    location:
+      lat: 14.7543201
+      lng: 74.5341361
+    viewport:
+      northeast:
+        lat: 14.7556875802915
+        lng: 74.53547903029151
+      southwest:
+        lat: 14.7529896197085
+        lng: 74.53278106970849
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png
+  id: 253d24d66af782753559026a979b258db3564249
+  name: sunksal bus stop
+  place_id: ChIJrSPGBO6WvjsR6XvF9Jj-AJw
+  rating: 1.5
+  reference: CmRSAAAA7viESFY4TQDSkGWpdRs_336hf90P9aScGFqbZ4nCjr-xyAZqsePUvzFTu1K_iodajnYz6kAt_cmFmLNKS_h_Uqhgh7aRsRYWuf3517qJN5pxNLL8VVV9w-GwrMLL9R5BEhDgC5yuvszC6Hdpxsy27qZzGhTYvVrAZLuj3i_uRBQ91hWnAl-2zA
+  scope: GOOGLE
+  types:
+  - bus_station
+  - transit_station
+  - point_of_interest
+  - establishment
+  vicinity: Bellary-Hubli Road, Dongri
+- geometry:
+    location:
+      lat: 14.6343824
+      lng: 74.5340824
+    viewport:
+      northeast:
+        lat: 14.6357313802915
+        lng: 74.53543138029151
+      southwest:
+        lat: 14.6330334197085
+        lng: 74.5327334197085
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png
+  id: 2d2fd1d39f076e931e8aa053adb4b103efa0215a
+  name: chanagar/achve bus stop
+  photos:
+  - height: 3456
+    html_attributions:
+    - <a href="https://maps.google.com/maps/contrib/118047021822877794099/photos">Rajesh
+      Nayak</a>
+    photo_reference: CmRaAAAAPRyew92txi8cxJ5r4Om8uE3nZwRM6Cp3m97sWPqKjq29cU5Ui87ZxDkNgoFJkvuGBBzV7zeMAIYuqe8GwaXbUlxUQuRGzShWNALK0b1cDdUbNZPkHoAFsFJpklsUEAcLEhBlNB0jpm8_9ZJ74U5egGOJGhQcuC8dVWv5eNRVa2d-nbI3jYu2Wg
+    width: 4608
+  place_id: ChIJCwSqcxCZvjsRHUZYYokbcGo
+  rating: 5
+  reference: CmRRAAAAuO_9p99-gYaPrj3WStQpmY4MPjm_9sm4t06Fmar5FYQ_AYYDv40QY9TsQe21Sg3Yq83eX2u7R73-D-IO4uyXxAleVNn3rHDIk2k06mXRNgukHPzcandPPgLzSYUzV0E4EhB0h76HKr69Qzmsb7OvwR3fGhRzwAo3fD4goLKfusIub2OHyXmHhQ
+  scope: GOOGLE
+  types:
+  - bus_station
+  - transit_station
+  - point_of_interest
+  - establishment
+  vicinity: Manigadde
+- geometry:
+    location:
+      lat: 14.5241025
+      lng: 74.5970839
+    viewport:
+      northeast:
+        lat: 14.5254359302915
+        lng: 74.5984417802915
+      southwest:
+        lat: 14.5227379697085
+        lng: 74.59574381970849
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png
+  id: f169dae85ee8383d53b671a59bb7fc6754db8c0b
+  name: ragi hosalli bus stop
+  place_id: ChIJf7_YCQOgvjsRzKnvGnWeW-A
+  reference: CmRSAAAAQxg6mo0uid9uPR9x6xTfKpdh0EIK52dQ-iWApzOzV8AvaR-xROxwLqZDkClCBi_vw5jtx6rbW7B2_GFEUem5rW7xmMqJ6OUb2kITozpx2im9XJQNTdhx7EBhO4_2navTEhBjtDVt2IPkONJBAssGM4ljGhTEIsCW1EgjmAYl1P7YfPJgr0dDtw
+  scope: GOOGLE
+  types:
+  - bus_station
+  - transit_station
+  - point_of_interest
+  - establishment
+  vicinity: Ragi Hosalli, Sirsi - Kumta Road, Balekoppa
+- geometry:
+    location:
+      lat: 14.5111697
+      lng: 74.5306009
+    viewport:
+      northeast:
+        lat: 14.5125004802915
+        lng: 74.5319488302915
+      southwest:
+        lat: 14.50980251970849
+        lng: 74.52925086970849
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png
+  id: 79c5b4aa526b7f4f42b6ed73660899d1c067d426
+  name: yana cross bus stop
+  place_id: ChIJw2P-iZ0gvDsRhr0T6WfEFfg
+  reference: CmRSAAAATGZ_By-eCs6P599Sg0dPPDQcNv7ZeVQsuBWqpQm-Yt6mmUfLFn44ThBa-9Y00vhWfrj8dq-_jsNiwDVhB7ugQ6ISirxoPtfLeOu01ztduhSb_vEzo00CtzLasoB31aYuEhAuK4sAt4MbDONUz3-7c6r5GhTAUeQeMmUsiC8_qHCqVgrSrUBaXA
+  scope: GOOGLE
+  types:
+  - bus_station
+  - transit_station
+  - point_of_interest
+  - establishment
+  vicinity: Sirsi - Kumta Road, Kodambale
+- geometry:
+    location:
+      lat: 14.2967432
+      lng: 74.4754584
+    viewport:
+      northeast:
+        lat: 14.2982132302915
+        lng: 74.4766965802915
+      southwest:
+        lat: 14.2955152697085
+        lng: 74.4739986197085
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png
+  id: 5deff06f7aaedf75dbbeaa96524ae954d087b8a2
+  name: arolli bus stop
+  place_id: ChIJR7-0NxM7vDsRZqqYeyRbgT0
+  reference: CmRRAAAAxBA2Wq6wa9Q3BO-hWEmBNiRIvn8uKIPiBT8jIQTMprx8hZnu25lkMNO5_hXfbD1zm2_av_GZE15g45rohjXlv0JRSrkoQ-dLilfHAlUHKeeDxkhCI1isBtCINorE3VJjEhA6YbaenQKwrJopvQ9wWAb5GhSqqY-A3CnwuTPDvUcQyQ3n_Nn32g
+  scope: GOOGLE
+  types:
+  - bus_station
+  - transit_station
+  - point_of_interest
+  - establishment
+  vicinity: Bengaluru - Honnavar Road
+- geometry:
+    location:
+      lat: 14.3279114
+      lng: 74.4893432
+    viewport:
+      northeast:
+        lat: 14.3293233802915
+        lng: 74.4906948302915
+      southwest:
+        lat: 14.3266254197085
+        lng: 74.4879968697085
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png
+  id: ede923441d123f89e89e38aa4367323798a4e305
+  name: arengadi bus stop
+  place_id: ChIJtY5cNq0kvDsRD3PCU8Uk5HE
+  rating: 3.5
+  reference: CmRRAAAAZYGHzCNoZK3MhKqGv7zu8Vnmwl73BNwa4vetcWr_iwDtaAQ8IZ6tNrnrLhrKkf72pGa33sDukqyHie84rgdIEvPVFYpNjL6iQuxTkZ93S6OsQxojPKTnnLAE8Utw69BoEhB8gbhkSrmZZtGvlgEJLk7gGhRqmlrQRg682KTxCy4-IDnHCUtSeg
+  scope: GOOGLE
+  types:
+  - bus_station
+  - transit_station
+  - point_of_interest
+  - establishment
+  vicinity: Areangadi-Tolasani Road, Areangadi
+- geometry:
+    location:
+      lat: 14.3301401
+      lng: 74.5141707
+    viewport:
+      northeast:
+        lat: 14.3314508302915
+        lng: 74.5155082302915
+      southwest:
+        lat: 14.3287528697085
+        lng: 74.5128102697085
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png
+  id: 4f1a7f31c8adf9dfb89b0646acc5d5d0ef58943e
+  name: kerekon bus stop
+  place_id: ChIJXSCw2EwjvDsR3gSdManbuzk
+  reference: CmRRAAAA2sj7prO1Di9j7zMcIMZfWLI9kEgWGn7EfjLhs-QMaAbPNvIyR4l9ueDBB2JTHGKLvFCMuLjfKoS9dbCp02nx3AFrofqABDMCIBHbijFKG-XEfk61ODsoJT6yNnb6NALyEhBVcALjZ9lcWp2mQ46JT0E_GhTrAY_MxMQRsu9pNEbaLrXqAIxL8Q
+  scope: GOOGLE
+  types:
+  - bus_station
+  - transit_station
+  - point_of_interest
+  - establishment
+  vicinity: Areangadi-Tolasani Road
+- geometry:
+    location:
+      lat: 14.4367268
+      lng: 74.5168046
+    viewport:
+      northeast:
+        lat: 14.4380862302915
+        lng: 74.5181575302915
+      southwest:
+        lat: 14.4353882697085
+        lng: 74.5154595697085
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png
+  id: 5423a598444bf0ce90044aa45d3c72c11b5f6733
+  name: marakal cross bus stop
+  place_id: ChIJBwJkqkYhvDsRvWgJk5ukx8Y
+  reference: CmRSAAAA8tQOsgGnFeon-zv9zK1NNoYojJyBUYtrVZoSBbW5HydTX4kWBjKisWzk_9p-xZfK1X2JJpjgBVEcBGCGeruYr99G0aL2nFzN0tU2Vm5atlKcmS9J4ujq9h0cs8qpzEgUEhArs5Nt0B2m4q0aXBXL5MCcGhSC8Fu8qMfm13g4HJ7LmSVDHIYB-w
+  scope: GOOGLE
+  types:
+  - bus_station
+  - transit_station
+  - point_of_interest
+  - establishment
+  vicinity: Kumta - Siddapur Road, Kandavalli
+- geometry:
+    location:
+      lat: 14.4269863
+      lng: 74.57975610000001
+    viewport:
+      northeast:
+        lat: 14.4283095302915
+        lng: 74.5811017802915
+      southwest:
+        lat: 14.4256115697085
+        lng: 74.5784038197085
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png
+  id: 714800edaf7a1604ae2586a73cb630aa7b60998a
+  name: santeguli bus stop
+  place_id: ChIJB-O5C_chvDsRIrL9is-8Ym0
+  reference: CmRRAAAAeXt7cZvrl3EKTNTh2Q6UEZmgkZ-upTrnGTTG8xTucHzQ10s-FMUAD7k74P34UbOaPxrCJps5OwDyYJ4l_2brjow3bmybdbeshZhvy9V9NrlDYzxrsef2t562kjEmmEJTEhAFGb_I1O6FepHztq-5sjq_GhQZDYsaYzSyOYCewHpgBWEax-5jkg
+  scope: GOOGLE
+  types:
+  - bus_station
+  - transit_station
+  - point_of_interest
+  - establishment
+  vicinity: State Highway 48, Santeguli
+- geometry:
+    location:
+      lat: 14.3272228
+      lng: 74.49221179999999
+    viewport:
+      northeast:
+        lat: 14.32854113029151
+        lng: 74.49356623029149
+      southwest:
+        lat: 14.3258431697085
+        lng: 74.49086826970849
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png
+  id: ebd19be44154370ed7f4df68c7dade026c177242
+  name: areangadi bus stop
+  place_id: ChIJE2DrSVM7vDsRXAe9ZOKjkCo
+  rating: 4
+  reference: CmRRAAAA6utNDA51dDmE0DO7EH2Pwm7q6AXTG9ulktuGz591M6a00IgeyNWu9H4Xdmz3gHIGucuu7ASnguvws8h5Jv2WP3v--zoH56dohetX6WJPA8KRw-H65GvGN4M-cAVEXYfhEhC1mdHe0KSfJ3dGy0ofJKJpGhSoYBSp0Q0weFKyiswVXaVo3oBBZg
+  scope: GOOGLE
+  types:
+  - bus_station
+  - transit_station
+  - point_of_interest
+  - establishment
+  vicinity: Areangadi-Tolasani Road, Areangadi
+- geometry:
+    location:
+      lat: 14.8836702
+      lng: 74.6563206
+    viewport:
+      northeast:
+        lat: 14.8850261802915
+        lng: 74.6576568802915
+      southwest:
+        lat: 14.8823282197085
+        lng: 74.65495891970849
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png
+  id: 34aca4da06184a9bdf147cf13c9ba082c0f19d41
+  name: shirley cross bus stop
+  place_id: ChIJGzgA653AvjsRZGS5SlXDl8E
+  rating: 3.2
+  reference: CmRSAAAA0Mt0mzwq-gM-yrd2VMa72Qusf78g0piBm8yyF697JVeEor7xMkoeUVLPXkngt-X_CqcRnbYY-MN3lS24XnR7ICHpqmILRohDWA-pVQg4Sb60HuLh4UixRqwm7F_50QFcEhAlz-tmVbR5WE6uIQW9qmwKGhRtRD3EeG5WGGELDlDQlWzUnf1lBg
+  scope: GOOGLE
+  types:
+  - bus_station
+  - transit_station
+  - point_of_interest
+  - establishment
+  vicinity: Shirley falls, National Highway 63, Arbail
+- geometry:
+    location:
+      lat: 14.616634
+      lng: 74.6579216
+    viewport:
+      northeast:
+        lat: 14.6179723302915
+        lng: 74.65926283029151
+      southwest:
+        lat: 14.61527436970849
+        lng: 74.65656486970849
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png
+  id: 01d3504005610d3cba7aecb90ae1b773f9ae4c17
+  name: devanahalli bus stop
+  place_id: ChIJOZYRBtyjvjsRmALtlcanlNw
+  rating: 4
+  reference: CmRSAAAA-criYjcrJHDmbxqR0w_xwlHEuV_nwl5AWFQOuZGsst88QiU7KeWsvQxR6aRvg7c3YT9LyN5gDxB3G6VURUjefBUtXEhXiZuqRmcNrmWgOMTjgQNDKfGZik6dyKh6lxnrEhDTyuPyDi3xcfjrlXl_g-gxGhSYLOWhhiWPZxCtTuYJoAzvPJqLaw
+  scope: GOOGLE
+  types:
+  - bus_station
+  - transit_station
+  - point_of_interest
+  - establishment
+  vicinity: Mattighatta Road, Devanahalli
+- geometry:
+    location:
+      lat: 14.3849133
+      lng: 74.6722309
+    viewport:
+      northeast:
+        lat: 14.3862376302915
+        lng: 74.6735655302915
+      southwest:
+        lat: 14.3835396697085
+        lng: 74.67086756970849
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png
+  id: 0e2b1b208d40f0faecd53150a3aaca300353d2ee
+  name: dodmane bus stop
+  place_id: ChIJldvCKnYZvDsRgVG7q5URdCw
+  rating: 1
+  reference: CmRRAAAA3gZiH_Zvka1AehBTJhN-dvrGVXNqA-OIype1_VuiKNKNGEEWUixPkVfaILmtq1DWkwmEpNPgNl3YMT0JAK5L2hAVTkBsGvpKJ-O8wQHNI6hS3CeWa8ZxQJwZxmErA6K6EhDpzxmFdhdZHPtXNFl_PCprGhRTve3NYCHD_BWgbd1jWqP2-GdxzA
+  scope: GOOGLE
+  types:
+  - bus_station
+  - transit_station
+  - point_of_interest
+  - establishment
+  vicinity: Dodmane, Kumta - Siddapur Road
+- geometry:
+    location:
+      lat: 14.8245821
+      lng: 74.6213368
+    viewport:
+      northeast:
+        lat: 14.8259057802915
+        lng: 74.6227143802915
+      southwest:
+        lat: 14.8232078197085
+        lng: 74.62001641970849
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png
+  id: 0e707fcd4cbba36c60c8f9f02c8b30c6d16c4196
+  name: gullapur bus stop
+  place_id: ChIJ05Uvv0i-vjsRuoUvpGPMbNw
+  rating: 3.3
+  reference: CmRSAAAAnyuQtGUhnquDPPKbPwvVGJXUjMSfK5rBqlNEdbIzl-Wx3Lu7BPjm3uldkHJm8kz3QWkTemhUnA0tSL4vrfgnAomtKKLmVBh-MEPWmMT2T25ZKRckO4KRW4tCmnDQUU8qEhD6Gbd_Zwy7vPZfk4hb6wGVGhSNhd5mJV_LbX3z5BA2pZztavmjvw
+  scope: GOOGLE
+  types:
+  - bus_station
+  - transit_station
+  - point_of_interest
+  - establishment
+  vicinity: National Highway 63, Gullapur
+- geometry:
+    location:
+      lat: 14.8802648
+      lng: 74.1423243
+    viewport:
+      northeast:
+        lat: 14.8816303802915
+        lng: 74.1436655302915
+      southwest:
+        lat: 14.8789324197085
+        lng: 74.1409675697085
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png
+  id: 3446dc620a65c71ec237cb3014ff77b7081c46d0
+  name: asnoti railway station bus stop
+  photos:
+  - height: 519
+    html_attributions:
+    - <a href="https://maps.google.com/maps/contrib/106876551343547820206/photos">Leena
+      Nagekar</a>
+    photo_reference: CmRZAAAA7rkoCC5CsjImis3VfQBcdfHGmtSnpOnciyprdI0p2OuFTQ_clb5CM9DvYi5F8WAwcvwBzbjjlI_34WzSqErIP4H4Wf15IXfDtOd9HfP65L4VK5f-0fIC6AryOjG6vhN9EhBfgvp7TETtZAt6KwfS4yDhGhS3Dvm_3yr5DfAcDgzEgOUQKIKIvA
+    width: 720
+  place_id: ChIJxweGr2hevjsRGl47NG7g4uI
+  rating: 3.8
+  reference: CmRSAAAALwR671jOLalvVbIuHQYqfW5jb_cmGOGYnNGz_-08Q_Y4MrksbJWH02689QvDH7dAOlX-OB4VC9gGSvl9z_q5Ducq9BPLoSgi7pL5RFOHWWsC33fCBox_b5aid5HkUs_tEhCpZe5-QjEbE4Ujh61m-2jCGhQTzvn0IAsyxu_uOy8xnpLwVJC4-Q
+  scope: GOOGLE
+  types:
+  - bus_station
+  - transit_station
+  - point_of_interest
+  - establishment
+  vicinity: State Highway 34, Majali
+- geometry:
+    location:
+      lat: 14.8220691
+      lng: 74.1322768
+    viewport:
+      northeast:
+        lat: 14.8234180802915
+        lng: 74.1336257802915
+      southwest:
+        lat: 14.8207201197085
+        lng: 74.13092781970849
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png
+  id: 680f285d281211d4fb769361e0240e9c52c72fae
+  name: kajubagh cross bus stop
+  photos:
+  - height: 2368
+    html_attributions:
+    - <a href="https://maps.google.com/maps/contrib/109806020856910701509/photos">Vishwambar
+      Shetti</a>
+    photo_reference: CmRaAAAAluleCfOeSzGFMrnCLev5puL3KXr9jZG7MghQQpfvgIjkYHNxQf-Paj_od2TdbvB_ddfaWDuv7xQrPOssZ0E1To7SE0416BYtKUF9Gyp3tdNa5yE5KL7NjPZ29KPKliQxEhCeDE5kgEtagLnyRk34_-uTGhSvo_7Q-CrzgyaY9oCNhtO6UmM5VQ
+    width: 4208
+  place_id: ChIJex0qtslgvjsRnGzHLIikmfY
+  rating: 3.7
+  reference: CmRSAAAA3guppC_S0KxmuMuUgrV0q8Jj2b_egltOhv9aXXCP-wHAa3TGt7YEnjqXRnkqN8uRVkgfREgvVN3tbXll3cVPE6AM1MOhMsNu3mJpROQWwhPWeL4237QA_STtkSO2Ksr9EhBa-X3-XycTPu7P4UjGmT9pGhQE0TxmHFLZvHbuLHaBS4WEh8TS1A
+  scope: GOOGLE
+  types:
+  - bus_station
+  - transit_station
+  - point_of_interest
+  - establishment
+  vicinity: Kodibag, Karwar
+- geometry:
+    location:
+      lat: 14.228992
+      lng: 74.4953587
+    viewport:
+      northeast:
+        lat: 14.2303409802915
+        lng: 74.49670768029151
+      southwest:
+        lat: 14.2276430197085
+        lng: 74.49400971970849
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png
+  id: f0c4a7b59828a7ccb5e1f5d53913083af995d9e9
+  name: idagunji bus stop
+  place_id: ChIJ7TG3tFM5vDsR0W3cWt2R3ZI
+  rating: 4.3
+  reference: CmRSAAAADrk9Z5xhPbmJn25RJpIeiLuZROL7WRR8mFc3nn_mEhzi8rmUwJKGMDnooppwZUlycK80VnTIj9aV-r1bomSJ_ybmciyTlNRaE7M3cjFRRod0bBxtmrLcpq9kJ8rOWkjjEhBtTfROVCwhLhthe2f6637oGhS-R2kyO5TD-sKjGlHRRCdTI5IPEA
+  scope: GOOGLE
+  types:
+  - bus_station
+  - transit_station
+  - point_of_interest
+  - establishment
+  vicinity: Idagunji
+- geometry:
+    location:
+      lat: 14.4404389
+      lng: 74.7379732
+    viewport:
+      northeast:
+        lat: 14.4417878802915
+        lng: 74.73932218029151
+      southwest:
+        lat: 14.4390899197085
+        lng: 74.7366242197085
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png
+  id: a9c097073ef0ccec81a64cc8702a361212ac1680
+  name: heggarani bus stop
+  place_id: ChIJhxeJyYYcvDsRC-DGKl3g7tY
+  rating: 5
+  reference: CmRSAAAAO3CIgq1ELdPqtPmZk7rCbzU-bVPq6dxdT8_C6pbT_aYTd47aim_q33kV3ZhfAuK7OQk5HysbpbZ7Md6VcM0G1-OdD4ib8zt7wb1RRYrIQj4p7p2T4SWFXz7evuz1JZnrEhALXcYQ2w0t5SQ9HYN1HeSwGhTfyHCI0HARdsZUKHS0b2MZO7TZWA
+  scope: GOOGLE
+  types:
+  - bus_station
+  - transit_station
+  - point_of_interest
+  - establishment
+  vicinity: Heggarne
+- geometry:
+    location:
+      lat: 14.5589016
+      lng: 74.76071329999999
+    viewport:
+      northeast:
+        lat: 14.5602560802915
+        lng: 74.76205123029149
+      southwest:
+        lat: 14.5575581197085
+        lng: 74.75935326970848
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png
+  id: 9197829062ddf100c2d588a5e4014b1156e50bf9
+  name: kolagibees bus stop
+  place_id: ChIJ3yNhSManvjsRnJuVrjWVtrU
+  rating: 5
+  reference: CmRSAAAANva2ABDYo19NwQ2DWGznTEEwToInKNLLGYd2ahtxBFpWAlXUUK-rGBMmzpLmogjT2PRTzmHL06GpRsb45Iul3WSNKds1JzA7PcfsD4cNlN_-JWMlrzY0zYLIMXFQnToFEhAWg6yGxab4ARLxybYyxQJqGhSyCmzGc1rj9YulwTGnoDjiTelNhg
+  scope: GOOGLE
+  types:
+  - bus_station
+  - transit_station
+  - point_of_interest
+  - establishment
+  vicinity: Sirsi - Kumta Road, Mattigar
+- geometry:
+    location:
+      lat: 14.5484336
+      lng: 74.73734560000001
+    viewport:
+      northeast:
+        lat: 14.5497993302915
+        lng: 74.7386736802915
+      southwest:
+        lat: 14.54710136970849
+        lng: 74.73597571970849
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png
+  id: 5a67d4f0478949fb3bebfe9baf9b71a885e8a03e
+  name: amminalli bus stop
+  place_id: ChIJwXaLz6GnvjsRHZnZruNjcvE
+  rating: 3
+  reference: CmRSAAAAI0PMbU991abuTYZJxVjTvyLJocHE1kj5HNAv3IF6ppbNF4Z9MFJ9sx6jNoZ-OYuOujnr3XMS5CJ100dDuRSkJJOum1_kBWqiTFMFPxFyfCyo5lDj8mgXQCRrDZ0X7rc5EhB_FkdZALHZl4NA-JxzSTiIGhTQ2-kj_jYS3GimmIaCKW4ar1ibyw
+  scope: GOOGLE
+  types:
+  - bus_station
+  - transit_station
+  - point_of_interest
+  - establishment
+  vicinity: Sirsi - Kumta Road, Amminalli
+- geometry:
+    location:
+      lat: 14.4993474
+      lng: 74.7678217
+    viewport:
+      northeast:
+        lat: 14.5006680302915
+        lng: 74.76919198029151
+      southwest:
+        lat: 14.4979700697085
+        lng: 74.76649401970849
+  icon: https://maps.gstatic.com/mapfiles/place_api/icons/bus-71.png
+  id: 1ce1ce244e6c3bec6986062de4b0cbc26535d014
+  name: tattikai bus stop
+  place_id: ChIJk5XL8TkdvDsRD4OOo-fLghk
+  rating: 5
+  reference: CmRRAAAA0CuBLD7JIEOfnXb3tEdFP8muQXoxg5P0V0HxDYjMBvUAdVTGvmmhGNacU7zNbHYkecGD_GilNqhaGBkUyTEV_PlOBDkSDOqF-fQpf-plI50HZcEzdpay25eZ6KpYPjQPEhDc2blt9_qQL-LxPDXEvUhWGhR7VE6f4sScG40yRn0oFjK4pj18hA
+  scope: GOOGLE
+  types:
+  - bus_station
+  - transit_station
+  - point_of_interest
+  - establishment
+  vicinity: Herur Road, Sarkuli
